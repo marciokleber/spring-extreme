@@ -1,14 +1,14 @@
 package lab.app.springextreme.domain;
 
-import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import jakarta.persistence.*;
 import java.math.BigDecimal;
 
 @Entity
-@Table(name = "PRODUCT")
+@Table(name = "PRODUTO")
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
