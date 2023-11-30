@@ -1,4 +1,4 @@
-package lab.app.springextreme;
+package lab.app.springextreme.config;
 
 
 import org.flywaydb.core.Flyway;
